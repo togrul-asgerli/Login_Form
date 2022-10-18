@@ -1,0 +1,14 @@
+C:\Users\Togrul\source\repos\Login_Page\Login_Page\bin\Debug\Login_Page.exe.config
+C:\Users\Togrul\source\repos\Login_Page\Login_Page\bin\Debug\Login_Page.exe
+C:\Users\Togrul\source\repos\Login_Page\Login_Page\bin\Debug\Login_Page.pdb
+C:\Users\Togrul\source\repos\Login_Page\Login_Page\obj\Debug\Login_Page.csproj.AssemblyReference.cache
+C:\Users\Togrul\source\repos\Login_Page\Login_Page\obj\Debug\Login_Page.csproj.SuggestedBindingRedirects.cache
+C:\Users\Togrul\source\repos\Login_Page\Login_Page\obj\Debug\Login_Page.Register.resources
+C:\Users\Togrul\source\repos\Login_Page\Login_Page\obj\Debug\Login_Page.Login.resources
+C:\Users\Togrul\source\repos\Login_Page\Login_Page\obj\Debug\Login_Page.Properties.Resources.resources
+C:\Users\Togrul\source\repos\Login_Page\Login_Page\obj\Debug\Login_Page.csproj.GenerateResource.cache
+C:\Users\Togrul\source\repos\Login_Page\Login_Page\obj\Debug\Login_Page.csproj.CoreCompileInputs.cache
+C:\Users\Togrul\source\repos\Login_Page\Login_Page\obj\Debug\Login_Page.exe
+C:\Users\Togrul\source\repos\Login_Page\Login_Page\obj\Debug\Login_Page.pdb
+C:\Users\Togrul\source\repos\Login_Page\Login_Page\obj\Debug\Login_Page.Dashboard.resources
+C:\Users\Togrul\source\repos\Login_Page\Login_Page\obj\Debug\Login_Page.Captcha.resources
